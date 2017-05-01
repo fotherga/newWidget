@@ -3,6 +3,8 @@
 This boilerplate gives you all you need to start a new custom widget for Mendix
 5.6.0 and up.
 
+Added a line, Mx 7.1.0
+
 The boilerplate contains:
 - Directory structure
 - Readme.md
